@@ -1,6 +1,7 @@
+import { HomePage } from "../Pages/HomePage"
 
 export const MainLayout = () => {
   return (
-    <main>MainLayout</main>
+    <main><HomePage /></main>
   )
 }
